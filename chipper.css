@@ -1,0 +1,390 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+.header{
+   width: 100%;
+   height: 650px;
+}
+
+.fii{
+    text-align: center;
+    margin-top: -400px;
+    color: white;
+    font-size: large;
+}
+
+.wee{
+    color: aquamarine;
+    font-size: 30px;
+}
+
+.dee{
+    font-size: 70px;
+}
+
+
+.our{
+    margin-top: 280px;
+    margin-left: 180px;
+}
+
+.tii{
+    color: purple;
+}
+
+.fuu{
+    font-size: 27px;
+}
+
+
+.tii1{
+    color: purple;
+}
+
+.visi{
+    margin-top: 50px;
+    margin-left: 180px;
+}
+
+
+.fuu1{
+    font-size: 27px;
+}
+
+.see{
+    color: purple;
+    margin-left: 230px;
+    text-decoration: none;
+    
+}
+
+.kik{
+margin-left: 10px;
+margin-top: -170px;
+
+}
+
+.maa{
+    margin-left: 850px;
+    margin-top: -500px;
+    height: 200px;
+    border: 1px solid black;
+    padding-right: 370px;
+    border-radius: 10px;
+}
+
+.tec{
+    margin-left: 1070px;
+    margin-top: -150px;
+}
+
+
+.life{
+    text-align: center;
+    background-color: rgb(239,240,254);
+    padding-bottom: 100px;
+    padding-top: 70px;
+    margin-top: -100px;
+}
+
+
+.him{
+    text-decoration: none;
+}
+
+.coun{
+    /* border-radius: 20px;
+    margin-left: 20px; */
+    
+}
+
+.coun1{
+    border-radius: 20px;
+    margin-left: -450px;
+    height: 400px;
+    
+}
+
+.coun2{
+    border-radius: 20px;
+    margin-right: -450px;
+    height: 430px;
+    margin-top: -700px;
+    margin-bottom: 20px;
+}
+
+
+.vee{ 
+   
+}
+
+.vee1{
+    width: 550px;
+    margin-left: -580px;
+    margin-bottom: -20px;
+    border-radius: 20px;
+}
+
+.vee2{
+    width: 550px;
+    margin-left: 580px;
+    margin-top: -350px;
+    border-radius: 20px;
+}
+
+.prof{
+    text-align: center;
+}
+
+
+.fin{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.hem{
+    text-decoration: none;
+}
+
+
+.siin{
+    height: 450px;
+    width: 600px;
+    margin-left: 800px;
+    margin-top: -250px;
+}
+
+
+
+.wor{
+    text-align: center;
+}
+
+.kee{
+    margin-left: -470px;
+    margin-top: 250px;
+    
+    }
+    
+    .tai{
+        margin-left: 850px;
+        margin-top: -500px;
+        height: 250px;
+        border: 1px solid black;
+        padding-right: 630px;
+        border-radius: 10px;
+        width: 250px;
+    }
+    
+    .kec{
+        margin-left: 1150px;
+        margin-top: -190px;
+    }
+
+    .wel{
+        text-align: center;
+        margin-left: 500px;
+    }
+
+
+    .giv{
+        margin-left: 670px ;
+        border: 1px solid black;
+        padding: 20px;
+        width: 450px;
+        border-radius: 20px;
+        
+    }
+
+    .chi{
+        margin-left: 670px ;
+        border: 1px solid black;
+        padding: 20px;
+        width: 450px;
+        border-radius: 20px;
+        
+    }
+
+
+    .cha{
+        margin-left: 670px ;
+        border: 1px solid black;
+        padding: 20px;
+        width: 450px;
+        border-radius: 20px;
+        
+    }
+
+
+    .rik{
+        width: 500px;
+        margin-left: 1300px;
+        margin-top: -410px ;
+    }
+
+
+
+    .waka{
+        margin-left: -100px;
+        margin-top: 250px;
+        
+        }
+        
+        .kaka{
+            margin-left: 850px;
+            margin-top: -500px;
+            height: 250px;
+            border: 1px solid black;
+            padding-right: 350px;
+            border-radius: 10px;
+            width: 500px;
+        }
+        
+        .saka{
+            margin-left: 1400px;
+            margin-top: -190px;
+        }
+
+
+        .com{
+            margin-top: 100px;
+            margin-left: -200px;
+        }
+
+        .cum{
+            width: 400px;
+            height: 400px;
+            margin-left: -600px;
+            margin-top: 100px;
+        }
+
+
+        .cam{
+            margin-top: -350px;
+        }
+
+
+        .sum{
+            margin-left: -1300px;
+            margin-top: 350px;
+            
+            }
+            
+            .som{
+                margin-left: 850px;
+                margin-top: -500px;
+                height: 250px;
+                border: 1px solid black;
+                padding-right: 630px;
+                border-radius: 10px;
+                width: 250px;
+            }
+            
+            .sim{
+                margin-left: 1150px;
+                margin-top: -190px;
+            }
+
+
+            .cli{
+                text-align: center;
+                margin-top: 100px;
+                margin-left: 500px;
+            }
+
+
+            .bat{
+                margin-left: 500px;
+                padding-top: 50px;
+                width: 100px;
+                height: 500px;
+            }
+
+
+            .gen{
+                border: 1px solid rgb(201,254,236);
+                background-color: rgb(201,254,236);
+                margin-top: 100px;
+                padding-bottom: 150px;
+
+            }
+
+
+            .gin{
+                width: 450px;
+                margin-left: 570px;
+                margin-top: 10px;
+            }
+
+            .gan{
+                margin-left: 500px;
+                margin-top: -300px;
+            }
+
+            .gon{
+                margin-left: 500px;
+                
+            }
+
+            .gag{
+                margin-left: 700px;
+                margin-top:-80px ;
+
+            }
+
+            .gun{
+                margin-left: 1200px;
+                margin-top: 100px;
+                text-decoration: none;
+            }
+
+
+            .dat{
+                margin-left: -250px ;
+                border: 1px solid black;
+                padding: 20px;
+                width: 620px;
+                border-radius: 20px;
+                font-size: 20px;
+                
+            }
+
+            .dat a{
+                text-decoration: none;
+                color: black;
+            }
+
+            .dot{
+                margin-left: -250px ;
+                border: 1px solid black;
+                padding: 20px;
+                width: 620px;
+                border-radius: 20px;
+                font-size: 20px;
+                
+            }
+
+            .dot a{
+                text-decoration: none;
+                color: black;
+            }
+
+            .dit{
+                margin-left: -250px ;
+                border: 1px solid black;
+                padding: 20px;
+                width: 620px;
+                border-radius: 20px;
+                font-size: 20px;
+                
+            }
+
+            .dit a{
+                text-decoration: none;
+                color: black;
+            }
+
+    
